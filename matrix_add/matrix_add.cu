@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <ctime>
 
+// Output: (run on leetgpu.com)
 // Results are correct
 // Total CPU Execution Time: 0.055757 seconds
 // Total GPU Element-wise Execution Time: 5.725004 seconds
